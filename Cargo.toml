@@ -1,0 +1,9 @@
+[package]
+name = "leksakers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+microbit-v2 = "0.16.0"
+cortex-m-rt = "0.7.5"
+panic-halt = "1.0.0"
